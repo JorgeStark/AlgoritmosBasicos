@@ -8,6 +8,7 @@ public class AppFactorial {
 	{
 		long iNum,res=1;
 		
+		System.out.println("Hola Usuario");
 		System.out.println("Dame un numero: ");
 		
 		Scanner sc = new Scanner(System.in);
